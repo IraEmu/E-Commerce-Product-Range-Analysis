@@ -16,9 +16,13 @@ analyze the results
 
 
 **Presentation**
+
 Final project presentation
+
 https://drive.google.com/file/d/1SayyhQBmnOxDOw7XgcyMMp8OLVmMZfBG/view
 
 **Tableau Dashboard**
+
 E-commerce. Purchases per day
+
 https://public.tableau.com/app/profile/ira082/viz/E-commerce_Purchasesperday/Purchasesperday?publish=yes
